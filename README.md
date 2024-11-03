@@ -40,3 +40,4 @@ Early game is pretty much non-existent in Minecraft. Punch a tree, craft a few i
 
 + [Tinkers' Survival Wiki](https://github.com/wendall911/TinkerSurvival/wiki)
 + [Tinkers' Survival Curseforge Page](https://minecraft.curseforge.com/projects/tinkersurvival)
++ [Tinkers' Survival Modrinth Page](https://modrinth.com/mod/tinkersurvival)
